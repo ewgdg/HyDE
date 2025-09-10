@@ -58,3 +58,12 @@ duf|zsh                                                  # prettier version of d
 
 # --------------------------------------------------- // OSD
 swayosd-git                                             #A GTK based on screen display for keyboard shortcuts like caps-lock and volume
+
+
+# Hyprland Ecosystem
+hyprutils
+hyprland-qt-support
+hyprland-qtutils
+hyprgraphics
+aquamarine
+hyprcursor
