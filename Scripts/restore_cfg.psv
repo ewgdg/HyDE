@@ -110,7 +110,7 @@ P|${HOME}/.local/state|dolphinstaterc|dolphin
 P|${HOME}/.config|baloofilerc|dolphin
 S|${HOME}/.config/menus|applications.menu|dolphin
 S|${HOME}/.config|dolphinrc|dolphin
-S|${HOME}/.config|kdeglobals|dolphin
+#S|${HOME}/.config|kdeglobals|dolphin
 S|${HOME}/.local/share/kio/servicemenus|hydewallpaper.desktop|dolphin
 S|${HOME}/.local/share/kxmlgui5|dolphin|dolphin
 S|${HOME}/.local/share|dolphin|dolphin
